@@ -1,0 +1,12 @@
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\bin\opencv_core300.dll
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\bin\opencv_highgui300.dll
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\bin\opencv_imgproc300.dll
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\bin\Example.CameraCapture.exe
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\bin\Example.CameraCapture.pdb
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\Emgu.CV.Example\CameraCapture\obj\Debug\Example.CameraCapture.exe
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\Emgu.CV.Example\CameraCapture\obj\Debug\Example.CameraCapture.pdb
+C:\Emgu\emgucv-windows-universal 3.0.0.2032\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\BTP\CameraCapture\obj\Debug\Example.CameraCapture.exe
+E:\BTP\CameraCapture\obj\Debug\Example.CameraCapture.pdb
